@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// Hey
+// Hey lol
 
 public class NewBehaviourScript : MonoBehaviour
 {
